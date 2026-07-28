@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Talachera Móvil | Auxilio Carretero 24 Horas</title>
+
+<meta name="description" content="Auxilio carretero 24 horas, talachera móvil, cambio de llantas y mecánica para autos y unidades pesadas. Servicio en carreteras y autopistas.">
+
+<link rel="stylesheet" href="css/styles.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<nav class="menu">
+
+<h1>Talachera Móvil 24/7</h1>
+
+<ul>
+
+<li><a href="#inicio">Inicio</a></li>
+
+<li><a href="#servicios">Servicios</a></li>
+
+<li><a href="#galeria">Galería</a></li>
+
+<li><a href="#cobertura">Cobertura</a></li>
+
+<li><a href="#contacto">Contacto</a></li>
+
+</ul>
+
+</nav>
+
+</header>
+
+<section id="inicio" class="hero">
+
+<img src="img/portada.jpg" alt="Talachera Móvil">
+
+<div class="hero-texto">
+
+<h2>Auxilio Carretero 24 Horas</h2>
+
+<p>
+
+Llegamos hasta donde te encuentres.
+
+Servicio rápido para automóviles,
+
+camionetas, autobuses y tractocamiones.
+
+</p>
+
+<a href="https://wa.me/524464195789" class="btn">
+WhatsApp
+</a>
+
+<a href="tel:+524464195789" class="btn2">
+Llamar Ahora
+</a>
+
+</div>
+
+</section>
+
+<section id="servicios">
+
+<h2>Nuestros Servicios</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>🛞 Talachera Móvil</h3>
+
+<p>Cambio y reparación de llantas.</p>
+
+</div>
+
+<div class="card">
+
+<h3>🚛 Auxilio Carretero</h3>
+
+<p>Servicio las 24 horas.</p>
+
+</div>
+
+<div class="card">
+
+<h3>🔧 Mecánica</h3>
+
+<p>Automóviles y unidades pesadas.</p>
+
+</div>
+
+<div class="card">
+
+<h3>🛒 Venta de Llantas</h3>
+
+<p>Nuevas y seminuevas.</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="galeria">
+
+<h2>Galería</h2>
+
+<div class="galeria">
+
+<img src="img/galeria1.jpg">
+
+<img src="img/galeria2.jpg">
+
+<img src="img/galeria3.jpg">
+
+<img src="img/galeria4.jpg">
+
+<img src="img/galeria5.jpg">
+
+<img src="img/galeria6.jpg">
+
+</div>
+
+</section>
+
+<section id="cobertura">
+
+<h2>Cobertura</h2>
+
+<p>
+
+Atendemos desde Irapuato hasta San Martín Texmelucan,
+
+carreteras federales y autopistas.
+
+También ofrecemos servicio en todo México.
+
+</p>
+
+</section>
+
+<section id="contacto">
+
+<h2>Contáctanos</h2>
+
+<p>📞 446 419 5789</p>
+
+<p>🕒 24 horas | 365 días</p>
+
+<p>📍 Auxilio carretero en todo México.</p>
+
+<a class="btn"
+href="https://wa.me/524464195789">
+
+Enviar WhatsApp
+
+</a>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 Talachera Móvil 24/7
+
+Todos los derechos reservados.
+
+</p>
+
+</footer>
+
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
